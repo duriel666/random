@@ -1,0 +1,15 @@
+C:\Users\janne\OneDrive\koodaus\random-c#\testi\bin\Debug\net6.0\testi.exe
+C:\Users\janne\OneDrive\koodaus\random-c#\testi\bin\Debug\net6.0\testi.deps.json
+C:\Users\janne\OneDrive\koodaus\random-c#\testi\bin\Debug\net6.0\testi.runtimeconfig.json
+C:\Users\janne\OneDrive\koodaus\random-c#\testi\bin\Debug\net6.0\testi.dll
+C:\Users\janne\OneDrive\koodaus\random-c#\testi\bin\Debug\net6.0\testi.pdb
+C:\Users\janne\OneDrive\koodaus\random-c#\testi\obj\Debug\net6.0\testi.csproj.AssemblyReference.cache
+C:\Users\janne\OneDrive\koodaus\random-c#\testi\obj\Debug\net6.0\testi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janne\OneDrive\koodaus\random-c#\testi\obj\Debug\net6.0\testi.AssemblyInfoInputs.cache
+C:\Users\janne\OneDrive\koodaus\random-c#\testi\obj\Debug\net6.0\testi.AssemblyInfo.cs
+C:\Users\janne\OneDrive\koodaus\random-c#\testi\obj\Debug\net6.0\testi.csproj.CoreCompileInputs.cache
+C:\Users\janne\OneDrive\koodaus\random-c#\testi\obj\Debug\net6.0\testi.dll
+C:\Users\janne\OneDrive\koodaus\random-c#\testi\obj\Debug\net6.0\refint\testi.dll
+C:\Users\janne\OneDrive\koodaus\random-c#\testi\obj\Debug\net6.0\testi.pdb
+C:\Users\janne\OneDrive\koodaus\random-c#\testi\obj\Debug\net6.0\testi.genruntimeconfig.cache
+C:\Users\janne\OneDrive\koodaus\random-c#\testi\obj\Debug\net6.0\ref\testi.dll
