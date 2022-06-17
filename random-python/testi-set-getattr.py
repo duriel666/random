@@ -4,26 +4,21 @@ class Employee:
     designation = 'Marketing Head'
 
 
-e = Employee()
-
-print('Age of David:', getattr(e, 'age', 56))
-print('')
-#print('Age of David:', getattr(e, 'age'))
-
-
 class Details:
     name = 'Sam'
     age = 24
 
 
-# Create an object of the class
+e = Employee()
 d = Details()
 
+print('Age of David:', getattr(e, 'age', 56))
+# print('Age of David:', getattr(e, 'age')) # prints error
+setattr(e, "age", 65)
+print('Set age of David:', getattr(e, 'age'))
 print('Name before modification:', d.name)
 print('Age before modification:', d.age)
-
 setattr(d, 'name', 'Timmy')
 setattr(d, 'age', 27)
-
 print('Name after modification:', d.name)
 print('Age after modification:', d.age)
