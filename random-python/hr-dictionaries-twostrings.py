@@ -17,12 +17,13 @@ import sys
 
 
 def twoStrings(s1, s2):
+    # Write your code here
     for x in s1:
         z = s2.find(x)
         if z > -1:
             return"YES"
     return "NO"
-    # Write your code here
+    
 
 
 if __name__ == '__main__':
