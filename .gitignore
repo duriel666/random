@@ -3,3 +3,4 @@ random-c#/.vscode/
 random-cpp/-vscode/
 *.prjct
 *bin/debug*
+build/
